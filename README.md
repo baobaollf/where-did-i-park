@@ -45,4 +45,4 @@ All you need is an iPhone model that is or new than iPhone X. (Andorid not suppo
 - I cannot track/save/retreave any of your information. Everything is running on your iPhone only. 
 
 
-Let me know if you have questions by submit an issue https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue. 
+Let me know if you have any questions/concerns/comments/suggestions by submit an issue https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue. 
