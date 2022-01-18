@@ -32,11 +32,17 @@ All you need is an iPhone model that is or new than iPhone X. (Andorid not suppo
     - 5H: https://www.icloud.com/shortcuts/2454a92a6e6c446db4db27c339f9d5a2
     - 6L: https://www.icloud.com/shortcuts/7a781c60767d4d8bba278fb475cf784e
     - 6H: https://www.icloud.com/shortcuts/50156745aed24a2aaf05e7cb67e76004
+3. Add a new reminder list in the Reminder app on your phone, and name it: Parking detail.
+4. You are all ready to go!
+5. Just hold you phone near the smart tag next time you are leaveing the parking garage. And a new reminder entry will be automaticly saved to your Reminder app. 
 
 
 
+## Notes
+- Only level 2-6 are suppported. Might add support to other levels in the future. 
+- 2H stands for second floor higher level. And 3L stands for third floor lower level.
+- I don't have any relationships with Astoria Tower what so ever, just a neighber trying to help.
+- I cannot track/save/retreave any of your information. Everything is running on your iPhone only. 
 
 
-
-
-Let me know if you have questions by submit an issue. 
+Let me know if you have questions by submit an issue https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue. 
