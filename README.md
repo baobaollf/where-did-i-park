@@ -33,7 +33,7 @@ All you need is an iPhone model that is or new than iPhone X. (Andorid not suppo
     - 6L: https://www.icloud.com/shortcuts/7a781c60767d4d8bba278fb475cf784e
     - 6H: https://www.icloud.com/shortcuts/50156745aed24a2aaf05e7cb67e76004
 3. Add a new reminder list in the Reminder app on your phone, and name it: Parking detail.
-4. You are all ready to go!
+4. You are ready to go!
 5. Just hold you phone near the smart tag next time you are leaveing the parking garage. And a new reminder entry will be automaticly saved to your Reminder app. 
 
 
